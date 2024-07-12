@@ -21,7 +21,7 @@ This project is a weather website built using HTML, CSS, and JavaScript. It fetc
 3. View current weather conditions for the specified city.
 
 #Snapshot
-![344366276-c19e7b00-7c1b-4a1f-9368-a15c0919c05f](https://github.com/user-attachments/assets/8a4888cb-05eb-408b-81c6-1a55bb91fd35)
+![Weather App - Personal - Microsoft​ Edge 12-07-2024 18_28_53](https://github.com/user-attachments/assets/7e172539-09c7-4e56-aae7-6e060bf5b905)
 
 
 #Contributing
